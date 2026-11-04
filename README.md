@@ -5,4 +5,4 @@ reenvía a donde está hoy el contenido; si el destino cambia, se cambia sólo e
 
 | QR | Dirección fija | Reenvía a |
 |---|---|---|
-| Menú del minimercado (mesas) | https://axionhurlingham.github.io/minimercado/menu/ | el menú del panel (`/menu`) |
+| Menú del minimercado (mesas) | https://axionhurlingham.github.io/minimercado/menu/ | muestra adentro el menú del panel (`/menu`) |
